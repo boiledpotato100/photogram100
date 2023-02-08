@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "album",
+			"path": "."
+		},
+		{
+			"name": "photogram",
+			"path": "../../photogram"
+		},
+		{
+			"name": "assets",
+			"path": "../assets"
+		}
+	],
+	"settings": {}
+}
